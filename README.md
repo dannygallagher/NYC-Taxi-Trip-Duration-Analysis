@@ -5,4 +5,4 @@ We integrate historic taxi data with traffic volume and weather data to build a 
 
 Final models included k-means for unsupervised clustering of geographical trip coordinates, and xgboost along with various forms of regression for duration prediction.
 
-The entire report, along with all code and visualizations, can be found in this Colab Notebook https://colab.research.google.com/drive/1_LARBalR4jxzamewfMkC7wIexmdcBs0Q?usp=sharing. It is view only, so to run it, simply save a copy in your own drive.
+The entire report, along with all code and visualizations, can be found in this Colab Notebook https://colab.research.google.com/drive/1_LARBalR4jxzamewfMkC7wIexmdcBs0Q?usp=sharing. It is view only, so to run it, simply save a copy in your own drive. The data we used, including data which we preprocessed, can all be found at https://drive.google.com/drive/folders/1uBY-piDRiakcdCC8cguPD-IadxkrpLsX?usp=sharing.
